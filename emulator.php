@@ -29,6 +29,7 @@
 			<div class="side side-console">
 				<div class="side-header">
 					<a id="console-clear" href="javascript:;">Clear</a>
+					<a href="http://jordyvl.github.io">Back to the Homepage</a>
 				</div>
 				<pre class="side-content" id="console"></pre>
 			</div>
@@ -81,4 +82,3 @@
 	
 </body>
 </html>
-<a href="http://jordyvl.github.io">Back to the Homepage</a>

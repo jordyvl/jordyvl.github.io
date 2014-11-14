@@ -1,6 +1,7 @@
-computercraft-emulator
+computercraft-emulator/ my website
 ======================
 
 An emulator for ComputerCraft, with integrated editor and peripherals
 
-For more informations : http://www.computercraft.info/forums2/index.php?/topic/20317-computercraft-emulator
+=========================================================================
+Also my little website :)

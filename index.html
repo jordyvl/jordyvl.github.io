@@ -17,7 +17,7 @@
 <center><FONT SIZE="72" FACE="Garamond,Times New Roman">jordyvl</FONT><center/>
 <br/>
 
-<a href="http://pastebin.com/u/jordyvl">Pastebin</a> / <a href="https://github.com/jordyvl?tab=repositories">GitHub</a> / <A HREF="mailto:jordyvl1@me.com">E-MAIL</A>
+<a href="http://pastebin.com/u/jordyvl">Pastebin</a> / <a href="https://github.com/jordyvl?tab=repositories">GitHub</a> / <A HREF="mailto:jordyvl1@me.com">E-MAIL</A> / <a href="https://github.com/jordyvl.atom">RSS<a/>
 <br/>
 <br/>
 <center>I am a starter with html/php and LUA i hope you like my stuff :)<center/>

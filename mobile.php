@@ -1,0 +1,35 @@
+<body style="background-color: lightgrey;">
+<a href="https://twitter.com/ItsTheHunter" class="twitter-follow-button" data-show-count="false">Follow @ItsTheHunter</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<br/>
+<script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div id="SkypeButton_Call_jordy.van.laerhoven_1">
+  <script type="text/javascript">
+    Skype.ui({
+      "name": "chat",
+      "element": "SkypeButton_Call_jordy.van.laerhoven_1",
+      "participants": ["jordy.van.laerhoven"],
+      "imageSize": 16
+    });
+  </script>
+</div>
+<br/>
+<center><FONT SIZE="72" FACE="Garamond,Times New Roman">jordyvl</FONT><center/>
+<br/>
+
+<a href="http://pastebin.com/u/jordyvl">Pastebin</a> / <a href="https://github.com/jordyvl?tab=repositories">GitHub</a> / <A HREF="mailto:jordyvl1@me.com">E-MAIL</A>
+<br/>
+<br/>
+<center>I am a starter with html/php and LUA i hope you like my stuff :)<center/>
+<br/>
+
+<center>Below you see a picture of my base on a Server<center/>
+<br/>
+<center>This is a <a href="http://www.computercraft.info/forums2/index.php?/topic/19352-lua-land-marvellous-magnificent-and-grandiose/">Link</a> to a forum post with information about that server<center/>
+<br/>
+<a href="http://imageshack.com/a/img537/6422/cpnYpw.jpg">Picture</a>
+<!-- hitwebcounter Code START -->
+<a href="http://jordyvl.github.io/" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=5876249&style=0038&nbdigits=5&type=page&initCount=0" title="" Alt=""   border="0" >
+</a>   
+  

@@ -28,5 +28,6 @@
 <center>This is a <a href="http://www.computercraft.info/forums2/index.php?/topic/19352-lua-land-marvellous-magnificent-and-grandiose/">Link</a> to a forum post with information about that server<center/>
 <br/>
 <a href="http://imageshack.com/a/img537/6422/cpnYpw.jpg">Picture</a>
-
+<br/>
+<center><a href="http://jordyvl.github.io/">Normal site</a><center/>
   

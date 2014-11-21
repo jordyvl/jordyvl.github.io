@@ -1,16 +1,11 @@
-<script type="text/javascript">
-<!--
-if (screen.width <= 699) {
-document.location = "http://jordyvl.github.io/mobile.html";
-else document.location = "http://jordyvl.github.io/home.html";
-}
-//-->
-</script>
-<script type="text/javascript">
-<!--
-if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
-   location.replace("http://jordyvl.github.io/mobile.html");
-}
--->
-</script>
-
+<? if (
+ stristr($ua, "Windows CE") or
+ stristr($ua, "Mobile") ) {
+ $DEVICE_TYPE="MOBILE";
+ }
+ if (isset($DEVICE_TYPE) and $DEVICE_TYPE=="MOBILE") {
+ $location='http://jordyvl.github.io/mobile.html';
+ header ('Location: '.$location);
+ exit;
+ }
+ ?> 

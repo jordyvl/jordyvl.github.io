@@ -1,11 +1,7 @@
-<? if (
- stristr($ua, "Windows CE") or
- stristr($ua, "Mobile") ) {
- $DEVICE_TYPE="MOBILE";
- }
- if (isset($DEVICE_TYPE) and $DEVICE_TYPE=="MOBILE") {
- $location='http://jordyvl.github.io/mobile.html';
- header ('Location: '.$location);
- exit;
- }
- ?> 
+<script type="text/javascript">
+  <!--
+  if (screen.width <= 800) {
+    window.location = "http://jordyvl.github.io/mobile.html/";
+  }
+  //-->
+</script>

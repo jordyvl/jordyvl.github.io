@@ -1,0 +1,7 @@
+AuthUserFile /secure/.htpasswd
+ AuthGroupFile /dev/null
+ AuthName "Password Required"
+ AuthType Basic
+ <Limit GET POST>
+ require valid-user
+ </Limit> 
